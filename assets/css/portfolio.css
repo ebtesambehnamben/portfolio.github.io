@@ -795,7 +795,7 @@ p {
 }
 
 .portfolio-item:nth-child(2) > .item-card > div > picture::before {
-  content: "Blockchain Develpment";
+  content: "Mobile Develpment";
 }
 
 .item-card > div > picture::after {
